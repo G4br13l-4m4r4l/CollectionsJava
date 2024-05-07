@@ -1,3 +1,4 @@
+package List;
 public class Pessoa implements Comparable <Pessoa>{
     //nome, idade e altura
     private String nome;
